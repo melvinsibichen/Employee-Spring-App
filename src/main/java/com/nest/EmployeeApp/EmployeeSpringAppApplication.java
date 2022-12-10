@@ -1,4 +1,4 @@
-package com.example.Employee_SpringApp;
+package com.nest.EmployeeApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
